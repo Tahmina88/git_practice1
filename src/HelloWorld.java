@@ -7,6 +7,6 @@ public class HelloWorld {
 
     //doing awesome work 3!
 
-    // ready to push to remote repositary
+    // ready to push to remote repository
 
 }
